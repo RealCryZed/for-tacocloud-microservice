@@ -1,2 +1,6 @@
 greeting:
+<<<<<<< HEAD
   message: I want to win in DV-2021 and move to the USA!123
+=======
+  message: I want to win in DV-2021 and move to the USA
+>>>>>>> 2795cc518a6e2fecdef9cb987b15a43a95f9649c
